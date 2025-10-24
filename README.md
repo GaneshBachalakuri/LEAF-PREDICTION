@@ -126,6 +126,6 @@ This project is licensed under the MIT License — feel free to modify and use i
 Developed by: Ganesh Bachalakuri
 📧 [ganeshbachalakuri10@gmail.com]
 
-🌐 GitHub Profile
+🌐 GitHub Profile [https://github.com/GaneshBachalakuri]
 
 “Turning data into intelligence and intelligence into action.” 🌿
